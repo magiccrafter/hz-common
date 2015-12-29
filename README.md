@@ -9,6 +9,6 @@
   </tr>
 </table>
 
-### Dependencies
+### Requires
 - hazelcast >= 3.0
 - java 8
