@@ -28,7 +28,7 @@
             <version>${hazelcast.version}</version>
         </dependency>
 
-        <!-- Logging with slf4j & Logback -->
+        <!-- Logging with slf4j-->
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>jcl-over-slf4j</artifactId>
